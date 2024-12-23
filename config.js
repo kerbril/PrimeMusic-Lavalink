@@ -38,10 +38,10 @@ module.exports = {
 
   nodes: [
 {
-  "identifier": "INZEWORLD.COM (DE)",
-  "password": "saher.inzeworld.com",
-  "host": "lava.inzeworld.com",
-  "port": 3128,
+  "identifier": "Naig Node - 01",
+  "password": "NAIGLAVA-dash.techbyte.host",
+  "host": "lavalink01.techbyte.host",
+  "port": 2036,
   "secure": false
 },
  ]
