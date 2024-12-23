@@ -38,11 +38,11 @@ module.exports = {
 
   nodes: [
 {
-  "identifier": "Naig Node - 01",
-  "password": "NAIGLAVA-dash.techbyte.host",
-  "host": "lavalink01.techbyte.host",
-  "port": 2036,
-  "secure": false
+  "identifier": "Catfein DE",
+  "password": "catfein",
+  "host": "lavalink.alfari.id",
+  "port": 443,
+  "secure": true
 },
  ]
 }
